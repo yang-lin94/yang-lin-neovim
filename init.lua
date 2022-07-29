@@ -1,0 +1,11 @@
+--基礎配置
+require("basic")
+--快捷鍵映射
+require("keymap")
+--packer插件管理
+require("plugins")
+--主題設置
+require("colorscheme")
+--自動命令
+require("autocmds")
+--插件配置
